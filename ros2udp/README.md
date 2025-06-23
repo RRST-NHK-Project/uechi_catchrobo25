@@ -50,6 +50,8 @@ sudo chmod +x setup.sh
 
 ### 3.4 🛠️ ビルド
 
+
+aaaaaaaaaaaaaaaaaaaaaaa
 ```bash
 cd ~/ros2_ws
 colcon build
